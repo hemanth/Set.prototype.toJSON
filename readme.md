@@ -16,7 +16,7 @@ require('set.prototype.tojson');
 var mySet = new Set();
 mySet.add(NaN);
 mySet.add(1);
-console.log(mySet.toJSON()) // {"1":1,"NaN":null}
+console.log(mySet.toJSON()) // {"1":1,"NaN":NaN}
 ```
 
 ## License
