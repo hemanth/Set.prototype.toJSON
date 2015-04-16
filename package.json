@@ -1,6 +1,6 @@
 {
   "name": "set.prototype.tojson",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ES7 polyfill for `set.prototype.toJSON()`",
   "license": "MIT",
   "repository": "hemanth/set.prototype.tojson",
