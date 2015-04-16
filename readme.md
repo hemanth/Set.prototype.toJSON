@@ -1,4 +1,4 @@
-# set.prototype.tojson [![Build Status](https://travis-ci.org/hemanth/set.prototype.toJSON.svg?branch=master)](https://travis-ci.org/hemanth/set.prototype.toJSON)
+# set.prototype.tojson [![Build Status](https://travis-ci.org/hemanth/Set.prototype.toJSON.svg)](https://travis-ci.org/hemanth/Set.prototype.toJSON)
 
 > ES7 polyfill for `set.prototype.toJSON()`
 
